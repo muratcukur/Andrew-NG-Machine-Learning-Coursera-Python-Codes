@@ -1,4 +1,4 @@
-# Andrew-NG-Machine-Learning-Coursera-Python
+# Andrew-NG-Machine-Learning-Coursera-Python-Code
 Andrew NG's Machine learning course python implementation of all exercises
 
 1 - LINEAR REGRESSION <br />
